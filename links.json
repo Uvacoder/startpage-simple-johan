@@ -31,10 +31,6 @@
         {
           "name": "Learning Central",
           "url": "https://autodesk-partners.sabacloud.com/Saba/Web_spf/SPCTNT281Site/app/dashboard"
-        },
-        {
-          "name": "University",
-          "url": "https://www.autodesk.com/autodesk-university/"
         }
       ]
     },
@@ -57,6 +53,19 @@
         {
           "name": "License Manager",
           "url": "https://geoitgis.geo-it.be/identity-server/Account/Login"
+        }
+      ]
+    },
+    {
+      "category": "Learning",
+      "links": [
+        {
+          "name": "LinkedIn Learning",
+          "url": "https://www.linkedin.com/learning/"
+        },
+        {
+          "name": "University",
+          "url": "https://www.autodesk.com/autodesk-university/"
         }
       ]
     }

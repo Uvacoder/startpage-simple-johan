@@ -6,6 +6,11 @@
             "icon": "microsoft-azure-devops"
         },
         {
+            "name": "Freshdesk",
+            "url": "https://geoit.freshdesk.com/support/home",
+            "icon": "face-agent"
+        },
+        {
             "name": "Training registratie",
             "url": "https://training.geo-it.be/",
             "icon": "school"
@@ -14,6 +19,11 @@
             "name": "Training broodjeslijst",
             "url": "https://training.geo-it.be/broodjeslijst_dag.php",
             "icon": "baguette"
+        },
+        {
+            "name": "Autodesk Education",
+            "url": "https://education.autodesk.com/",
+            "icon": "file-certificate"
         }
     ]
 }
