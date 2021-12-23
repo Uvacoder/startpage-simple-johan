@@ -1,39 +1,32 @@
 {
             "bookmarks" : [
               {
-                "category": "Communicate",
+                "category": "SketchUp",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discord.com"
+                    "name": "Trimble Account Manager",
+                    "url": "https://ecom-prd.trimblepaas.com/ecom/portal#/subscription"
                   },
                   {
-                    "name": "Gmail",
-                    "url": "http://gmail.com"
-                  },
-                  {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin",
-                    "target": "_blank"
+                    "name": "Design8 portal",
+                    "url": "https://resellers.design8.eu/"
                   }
                 ]
               },
               {
-                "category": "Cloud",
+                "category": "Autodesk",
                 "links": [
                   {
-                    "name": "Box",
-                    "url": "https://box.com",
-                    "target": "sui"
+                    "name": "Partner Center",
+                    "url": "https://autodesk-communities.force.com/partnercommunity/PartnerLanding"
                   },
                   {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com",
-                    "target": "sui"
+                    "name": "One Team Source",
+                    "url": "https://oneteamsource.seismic.com/app#/home"
                   },
                   {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
+                    "name": "Partner DAM (marketing assets and images)",
+                    "url": "https://dam.autodesk.com/dam/dashboard"
                   }
                 ]
               },

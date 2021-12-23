@@ -1,19 +1,19 @@
 {
     "apps": [
         {
-            "name": "Omada",
-            "url": "https://192.168.0.101:8043/login#dashboard",
-            "icon": "wifi-cog"
+            "name": "DevOps",
+            "url": "https://dev.azure.com/geoit1/Geo-IT/_boards/directory",
+            "icon": "microsoft-azure-devops"
         },
         {
-            "name": "Portainer",
-            "url": "https://192.168.0.101:9443/#!/home",
-            "icon": "docker"
+            "name": "Training registratie",
+            "url": "https://training.geo-it.be/",
+            "icon": "school"
         },
         {
-            "name": "Pi-hole",
-            "url": "http://192.168.0.101/admin/",
-            "icon": "do-not-disturb"
+            "name": "Training broodjeslijst",
+            "url": "https://training.geo-it.be/broodjeslijst_dag.php",
+            "icon": "baguette"
         }
     ]
 }
