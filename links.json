@@ -27,6 +27,36 @@
         {
           "name": "Partner DAM (marketing assets and images)",
           "url": "https://dam.autodesk.com/dam/dashboard"
+        },
+        {
+          "name": "Learning Central",
+          "url": "https://autodesk-partners.sabacloud.com/Saba/Web_spf/SPCTNT281Site/app/dashboard"
+        },
+        {
+          "name": "University",
+          "url": "https://www.autodesk.com/autodesk-university/"
+        }
+      ]
+    },
+    {
+      "category": "ACC (Autodesk Construction Cloud)",
+      "links": [
+        {
+          "name": "Projectlijst",
+          "url": "https://acc.autodesk.com/projects"
+        },
+        {
+          "name": "Assemble",
+          "url": "https://hubservice.tryassemble.com/Account/Login"
+        }
+      ]
+    },
+    {
+      "category": "Geo-IT",
+      "links": [
+        {
+          "name": "License Manager",
+          "url": "https://geoitgis.geo-it.be/identity-server/Account/Login"
         }
       ]
     }
