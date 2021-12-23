@@ -1,136 +1,34 @@
 {
-            "bookmarks" : [
-              {
-                "category": "SketchUp",
-                "links": [
-                  {
-                    "name": "Trimble Account Manager",
-                    "url": "https://ecom-prd.trimblepaas.com/ecom/portal#/subscription"
-                  },
-                  {
-                    "name": "Design8 portal",
-                    "url": "https://resellers.design8.eu/"
-                  }
-                ]
-              },
-              {
-                "category": "Autodesk",
-                "links": [
-                  {
-                    "name": "Partner Center",
-                    "url": "https://autodesk-communities.force.com/partnercommunity/PartnerLanding"
-                  },
-                  {
-                    "name": "One Team Source",
-                    "url": "https://oneteamsource.seismic.com/app#/home"
-                  },
-                  {
-                    "name": "Partner DAM (marketing assets and images)",
-                    "url": "https://dam.autodesk.com/dam/dashboard"
-                  }
-                ]
-              },
-              {
-                "category": "Design",
-                "links": [
-                  {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
-                  },
-                  {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
-                  },
-                  {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
-                  }
-                ]
-              },
-              {
-                "category": "Dev",
-                "links": [
-                  {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
-                  },
-                  {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
-                  },
-                  {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
-                  }
-                ]
-              },
-              {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
-                  },
-                  {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
-                  },
-                  {
-                    "name": "Freshome",
-                    "url": "https://www.mymove.com/freshome/"
-                  }
-                ]
-              },
-              {
-                "category": "Media",
-                "links": [
-                  {
-                    "name": "Spotify",
-                    "url": "http://browse.spotify.com"
-                  },
-                  {
-                    "name": "Trakt",
-                    "url": "http://trakt.tv"
-                  },
-                  {
-                    "name": "YouTube",
-                    "url": "https://youtube.com/feed/subscriptions"
-                  }
-                ]
-              },
-              {
-                "category": "Reading",
-                "links": [
-                  {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
-                  },
-                  {
-                    "name": "Medium",
-                    "url": "http://medium.com"
-                  },
-                  {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
-                  }
-                ]
-              },
-              {
-                "category": "Tech",
-                "links": [
-                  {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
-                  },
-                  {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
-                  },
-                  {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
-                  }
-                ]
-              }
-            ]
+  "bookmarks": [
+    {
+      "category": "SketchUp",
+      "links": [
+        {
+          "name": "Trimble Account Manager",
+          "url": "https://ecom-prd.trimblepaas.com/ecom/portal#/subscription"
+        },
+        {
+          "name": "Design8 portal",
+          "url": "https://resellers.design8.eu/"
         }
+      ]
+    },
+    {
+      "category": "Autodesk",
+      "links": [
+        {
+          "name": "Partner Center",
+          "url": "https://autodesk-communities.force.com/partnercommunity/PartnerLanding"
+        },
+        {
+          "name": "One Team Source",
+          "url": "https://oneteamsource.seismic.com/app#/home"
+        },
+        {
+          "name": "Partner DAM (marketing assets and images)",
+          "url": "https://dam.autodesk.com/dam/dashboard"
+        }
+      ]
+    }
+  ]
+}
