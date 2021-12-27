@@ -1,19 +1,6 @@
 {
   "bookmarks": [
     {
-      "category": "SketchUp",
-      "links": [
-        {
-          "name": "Trimble Account Manager",
-          "url": "https://ecom-prd.trimblepaas.com/ecom/portal#/subscription"
-        },
-        {
-          "name": "Design8 portal",
-          "url": "https://resellers.design8.eu/"
-        }
-      ]
-    },
-    {
       "category": "Autodesk",
       "links": [
         {
@@ -31,6 +18,27 @@
         {
           "name": "Learning Central",
           "url": "https://autodesk-partners.sabacloud.com/Saba/Web_spf/SPCTNT281Site/app/dashboard"
+        },
+        {
+          "name": "manage.autodesk.com",
+          "url": "https://manage.autodesk.com/"
+        }
+      ]
+    },
+    {
+      "category": "SketchUp en V-Ray",
+      "links": [
+        {
+          "name": "Trimble Account Manager",
+          "url": "https://ecom-prd.trimblepaas.com/ecom/portal#/subscription"
+        },
+        {
+          "name": "Design8 portal",
+          "url": "https://resellers.design8.eu/"
+        },
+        {
+          "name": "Chaos Group Account",
+          "url": "https://accounts.chaosgroup.com/"
         }
       ]
     },
@@ -53,6 +61,10 @@
         {
           "name": "License Manager",
           "url": "https://geoitgis.geo-it.be/identity-server/Account/Login"
+        },
+        {
+          "name": "Outlook webmail",
+          "url": "https://outlook.office.com/mail/"
         }
       ]
     },
