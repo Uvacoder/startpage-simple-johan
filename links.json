@@ -1,19 +1,6 @@
 {
   "bookmarks": [
     {
-      "category": "SketchUp",
-      "links": [
-        {
-          "name": "Trimble Account Manager",
-          "url": "https://ecom-prd.trimblepaas.com/ecom/portal#/subscription"
-        },
-        {
-          "name": "Design8 portal",
-          "url": "https://resellers.design8.eu/"
-        }
-      ]
-    },
-    {
       "category": "Autodesk",
       "links": [
         {
@@ -39,6 +26,25 @@
         {
           "name": "Thought Industries",
           "url": "https://autodesk.thoughtindustries.com/"
+          "name": "manage.autodesk.com",
+          "url": "https://manage.autodesk.com/"
+        }
+      ]
+    },
+    {
+      "category": "SketchUp en V-Ray",
+      "links": [
+        {
+          "name": "Trimble Account Manager",
+          "url": "https://ecom-prd.trimblepaas.com/ecom/portal#/subscription"
+        },
+        {
+          "name": "Design8 portal",
+          "url": "https://resellers.design8.eu/"
+        },
+        {
+          "name": "Chaos Group Account",
+          "url": "https://accounts.chaosgroup.com/"
         }
       ]
     },
@@ -77,6 +83,8 @@
         {
           "name": "Subscription Calculator (N-schijf)",
           "url": "file://192.168.202.7/Data/Temp/Hilde/Work/calculator.htm"
+          "name": "Outlook webmail",
+          "url": "https://outlook.office.com/mail/"
         }
       ]
     },
