@@ -26,6 +26,8 @@
         {
           "name": "Thought Industries",
           "url": "https://autodesk.thoughtindustries.com/"
+        },
+        {
           "name": "manage.autodesk.com",
           "url": "https://manage.autodesk.com/"
         }
@@ -81,10 +83,12 @@
           "url": "https://geoit-mautic.expresso-marketing.be/"
         },
         {
-          "name": "Subscription Calculator (N-schijf)",
-          "url": "file://192.168.202.7/Data/Temp/Hilde/Work/calculator.htm"
           "name": "Outlook webmail",
           "url": "https://outlook.office.com/mail/"
+        },
+        {
+          "name": "Subscription Calculator (N-schijf)",
+          "url": "file://192.168.202.7/Data/Temp/Hilde/Work/calculator.htm"
         }
       ]
     },
