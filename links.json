@@ -31,6 +31,14 @@
         {
           "name": "Learning Central",
           "url": "https://autodesk-partners.sabacloud.com/Saba/Web_spf/SPCTNT281Site/app/dashboard"
+        },
+        {
+          "name": "Partner Succes Hub",
+          "url": "https://partnersuccesshub.autodesk.com/"
+        },
+        {
+          "name": "Thought Industries",
+          "url": "https://autodesk.thoughtindustries.com/"
         }
       ]
     },
@@ -44,6 +52,10 @@
         {
           "name": "Assemble",
           "url": "https://geo-it.tryassemble.com/"
+        },
+        {
+          "name": "ACC Connect Documentatie",
+          "url": "https://help.plangrid.com/hc/en-us/categories/360002368473-Autodesk-Construction-Cloud-Connect"
         }
       ]
     },
@@ -53,6 +65,18 @@
         {
           "name": "License Manager",
           "url": "https://geoitgis.geo-it.be/identity-server/Account/Login"
+        },
+        {
+          "name": "Instellingen telefoon",
+          "url": "http://192.168.202.200/"
+        },
+        {
+          "name": "Mautic e-mail marketing",
+          "url": "https://geoit-mautic.expresso-marketing.be/"
+        },
+        {
+          "name": "Subscription Calculator (N-schijf)",
+          "url": "file://192.168.202.7/Data/Temp/Hilde/Work/calculator.htm"
         }
       ]
     },
@@ -64,8 +88,81 @@
           "url": "https://www.linkedin.com/learning/"
         },
         {
-          "name": "University",
+          "name": "Autodesk University",
           "url": "https://www.autodesk.com/autodesk-university/"
+        }
+      ]
+    },
+    {
+      "category": "Icons-Graphics",
+      "links": [
+        {
+          "name": "Nucleo icons",
+          "url": "https://nucleoapp.com/"
+        },
+        {
+          "name": "unDraw illustrations",
+          "url": "https://undraw.co/illustrations"
+        },
+        {
+          "name": "Flexiple illustrations",
+          "url": "https://2.flexiple.com/scale/home"
+        }
+      ]
+    },
+    {
+      "category": "File transfers",
+      "links": [
+        {
+          "name": "WeTransfer (2 GB)",
+          "url": "https://wetransfer.com/"
+        },
+        {
+          "name": "MediaFire (10 GB)",
+          "url": "https://www.mediafire.com/"
+        },
+        {
+          "name": "MyAirBridge (20 GB)",
+          "url": "https://www.myairbridge.com/en/#!/"
+        }
+      ]
+    },
+    {
+      "category": "Cloud Computing",
+      "links": [
+        {
+          "name": "Cloudalize",
+          "url": "https://my.hay01.gdaas.com/"
+        }
+      ]
+    },
+    {
+      "category": "Tabellen beroepen",
+      "links": [
+        {
+          "name": "Landmeters",
+          "url": "https://economie.fgov.be/nl/themas/ondernemingen/een-onderneming-oprichten/toegang-tot-het-beroep/landmeters-experten/tabel-van-landmeters-experten"
+        },
+        {
+          "name": "Architecten",
+          "url": "https://www.architect.be/nl/vind-een-architect/"
+        }
+      ]
+    },
+    {
+      "category": "BIM standaardisatie - downloads",
+      "links": [
+        {
+          "name": "WTCB BIMportal ",
+          "url": "https://www.bimportal.be/nl/downloads/"
+        },
+        {
+          "name": "AWV (Agentschap Wegen & Verkeer)",
+          "url": "https://wegenenverkeer.be/zakelijk/bim"
+        },
+        {
+          "name": "Revit Standards",
+          "url": "https://www.revitstandards.org/nl/downloads/"
         }
       ]
     }
