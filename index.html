@@ -87,7 +87,7 @@
                         </div>
                         <div class="apps_text">
                             <a href="{{url}}" {{#if target}}target="{{target}}"{{else}}target="_blank"{{/if}} >{{name}}</a>
-                            <span id="app-address">{{url}}</span>
+                            <span id="app-address"><a href="{{url}}" {{#if target}}target="{{target}}"{{else}}target="_blank"{{/if}} >{{url}}</a></span>
                         </div>
                     </div>
                 {{/apps}}
