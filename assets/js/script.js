@@ -6,7 +6,7 @@ function date() {
     month: "long",
     day: "numeric"
   };
-  let date = currentDate.toLocaleDateString("en-GB", dateOptions);
+  let date = currentDate.toLocaleDateString("nl-BE", dateOptions);
   document.getElementById("header_date").innerHTML = date;
 }
 
@@ -15,16 +15,16 @@ function greet() {
   let greet = Math.floor(currentTime.getHours() / 6);
   switch (greet) {
     case 0:
-      document.getElementById("header_greet").innerHTML = "Good night!";
+      document.getElementById("header_greet").innerHTML = "Goeienacht!";
       break;
     case 1:
-      document.getElementById("header_greet").innerHTML = "Good morning!";
+      document.getElementById("header_greet").innerHTML = "Goeiemorgen!";
       break;
     case 2:
-      document.getElementById("header_greet").innerHTML = "Good afternoon!";
+      document.getElementById("header_greet").innerHTML = "Goeiemiddag!";
       break;
     case 3:
-      document.getElementById("header_greet").innerHTML = "Good evening!";
+      document.getElementById("header_greet").innerHTML = "Goeienavond!";
       break;
   }
 }
