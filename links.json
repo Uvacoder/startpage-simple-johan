@@ -145,6 +145,10 @@
         {
           "name": "Cloudalize",
           "url": "https://my.hay01.gdaas.com/"
+        },
+        {
+          "name": "Azure Portal",
+          "url": "https://portal.azure.com/#home"
         }
       ]
     },
