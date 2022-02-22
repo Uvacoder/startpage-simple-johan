@@ -30,6 +30,10 @@
         {
           "name": "manage.autodesk.com",
           "url": "https://manage.autodesk.com/"
+        },
+        {
+          "name":"Feedback community (previews)",
+          "url": "https://feedback.autodesk.com/home.html?welcome"
         }
       ]
     },
