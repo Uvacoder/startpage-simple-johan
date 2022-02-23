@@ -76,7 +76,7 @@
       "links": [
         {
           "name": "License Manager",
-          "url": "https://geoitgis.geo-it.be/identity-server/Account/Login"
+          "url": "https://manage.geo-it.be/"
         },
         {
           "name": "Instellingen telefoon",
