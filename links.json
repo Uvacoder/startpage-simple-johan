@@ -193,6 +193,27 @@
           "url": "https://www.revitstandards.org/nl/downloads/"
         }
       ]
+    },
+    {
+      "category": "Autodesk Ideas en Roadmaps",
+      "links": [
+        {
+          "name": "Civil 3D Ideas",
+          "url": "https://forums.autodesk.com/t5/civil-3d-ideas/idb-p/31"
+        },
+        {
+          "name": "Civil 3D Roadmap",
+          "url": "https://trello.com/b/tafIRGcN/autodesk-civil-infrastructure-product-roadmap"
+        },
+        {
+          "name": "Revit Ideas",
+          "url": "https://forums.autodesk.com/t5/revit-ideas/idb-p/302"
+        },
+        {
+          "name": "Revit Roadmap",
+          "url": "https://trello.com/b/ldRXK9Gw/revit-public-roadmap"
+        }
+      ]
     }
   ]
 }
