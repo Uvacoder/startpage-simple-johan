@@ -116,10 +116,12 @@
             <h3>Phonenumbers</h3>
             <div id="phonenumbers_loop">
                 {{#phonenumbers}}
-                    <div id="phonenumbers_item" class="apps_text">
+                    <div id="phonenumbers_item">
                         <h4>{{category}}</h4>
                         {{#phonenumbers}}
+                        <div class="apps_text">
                             {{number}} {{name}}
+                        </div>
                         {{/phonenumbers}}
                     </div>
                 {{/phonenumbers}}
