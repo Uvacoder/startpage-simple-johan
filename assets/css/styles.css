@@ -262,6 +262,7 @@ table a{
 
 #links_item h4{
 	color: var(--color-text-acc);
+	font-weight: 600;
 }
 
 #links_item a{
@@ -276,6 +277,11 @@ table a{
 	grid-row-gap: 0px;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-template-rows: auto;
+}
+
+#phonenumbers_group h4{
+	color: var(--color-text-acc);
+	font-weight: 600;
 }
 
 
