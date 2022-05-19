@@ -1,0 +1,145 @@
+{
+    "phonenumbers": [
+      {
+        "category": "ALGEMEEN",
+        "links": [
+          {
+            "number": "100",
+            "name": "Hilde"
+          },
+          {
+            "number": "101",
+            "name": "Adelaida"
+          },
+          {
+            "number": "200",
+            "name": "Parlofoon"
+          },
+          {
+            "number": "500",
+            "name": "Ellen"
+          },
+          {
+            "number": "510",
+            "name": "Franky"
+          },
+          {
+            "number": "520",
+            "name": "Wouter D."
+          },
+          {
+            "number": "530",
+            "name": "Phillip"
+          },
+          {
+            "number":"540",
+            "name": "Wim"
+          }
+        ]
+      },
+      {
+        "category": "550 CAD BIM GROEP",
+        "links": [
+          {
+            "number": "551",
+            "name": "Pieter"
+          },
+          {
+            "number": "552",
+            "name": "Jo"
+          },
+          {
+            "number": "553",
+            "name": "Jens"
+          },
+          {
+            "number": "554",
+            "name": "Leen"
+          },
+          {
+            "number": "560",
+            "name": "Johan"
+          }
+        ]
+      },
+      {
+        "category": "570 CAD GIS GROEP",
+        "links": [
+          {
+            "number": "571",
+            "name": "Jochem"
+          },
+          {
+            "number": "572",
+            "name": "Sebastiano"
+          },
+          {
+            "number": "573",
+            "name": "Michiel"
+          }
+        ]
+      },
+      {
+        "category": "580 GEO-IT GIS GROEP",
+        "links": [
+          {
+            "number": "581",
+            "name": "Toon"
+          },
+          {
+            "number": "582",
+            "name": "Osas"
+          },
+          {
+            "number": "583",
+            "name": "Daan"
+          },
+          {
+            "number": "584",
+            "name": "Jef"
+          },
+          {
+            "number": "585",
+            "name": "Sharmaine"
+          },
+          {
+            "number": "586",
+            "name": "Iris"
+          },
+          {
+            "number": "587",
+            "name": "Ruben"
+          },
+          {
+            "number": "588",
+            "name": "Bart"
+          }
+        ]
+      },
+      {
+        "category": "590 ONTWIKKELAARS GROEP",
+        "links": [
+          {
+            "number": "591",
+            "name": "Stijn V."
+          },
+          {
+            "number": "592",
+            "name": "Rik"
+          },
+          {
+            "number": "593",
+            "name": "Kevin"
+          },
+          {
+            "number": "594",
+            "name": "Gustave"
+          },
+          {
+            "number": "595",
+            "name": "Dries"
+          }
+        ]
+      }
+    ]
+}

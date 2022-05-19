@@ -110,6 +110,22 @@
             </div>
             </script>
         </section>
+
+        <section id="phonenumbers">
+            <script type="text/handlebars-template" id="phonenumbers-template">
+            <h3>Phonenumbers</h3>
+            <div id="phonenumbers_loop">
+                {{#phonenumbers}}
+                    <div id="phonenumbers_item">
+                        <h4>{{category}}</h4>
+                        {{#phonenumbers}}
+                            {{number}} {{name}}
+                        {{/phonenumbers}}
+                    </div>
+                {{/phonenumbers}}
+            </div>
+            </script>
+        </section>
     </main>
 
     <div id="modal_init">
