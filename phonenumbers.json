@@ -2,7 +2,7 @@
   "phonenumbers": [
     {
       "category": "ALGEMEEN",
-      "links": [
+      "phonenumbers": [
         {
           "number": "100",
           "name": "Hilde"
@@ -39,7 +39,7 @@
     },
     {
       "category": "550 CAD BIM GROEP",
-      "links": [
+      "phonenumbers": [
         {
           "number": "551",
           "name": "Pieter"
@@ -64,7 +64,7 @@
     },
     {
       "category": "570 CAD GIS GROEP",
-      "links": [
+      "phonenumbers": [
         {
           "number": "571",
           "name": "Jochem"
@@ -81,7 +81,7 @@
     },
     {
       "category": "580 GEO-IT GIS GROEP",
-      "links": [
+      "phonenumbers": [
         {
           "number": "581",
           "name": "Toon"
@@ -118,7 +118,7 @@
     },
     {
       "category": "590 ONTWIKKELAARS GROEP",
-      "links": [
+      "phonenumbers": [
         {
           "number": "591",
           "name": "Stijn V."
