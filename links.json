@@ -148,6 +148,10 @@
         {
           "name": "MyAirBridge (20 GB)",
           "url": "https://www.myairbridge.com/en/#!/"
+        },
+        {
+          "name": "SwissTransfer (50 GB)",
+          "url": "https://www.swisstransfer.com/en"
         }
       ]
     },
