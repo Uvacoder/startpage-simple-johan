@@ -83,6 +83,40 @@
         }
       ]
     },
+    ,
+    {
+      "category": "Construction Cloud HELP",
+      "links": [
+        {
+          "name": "Autodesk Docs",
+          "url": "https://help.autodesk.com/view/DOCS/ENU/"
+        },
+        {
+          "name": "Autodesk Build",
+          "url": "https://help.autodesk.com/view/BUILD/ENU/"
+        },
+        {
+          "name": "Autodesk Design Collaboration",
+          "url": "https://help.autodesk.com/view/COLLAB/ENU/"
+        },
+        {
+          "name": "Autodesk Model Coordination",
+          "url": "https://help.autodesk.com/view/COORD/ENU/"
+        },
+        {
+          "name": "Autodesk Takeoff",
+          "url": "https://help.autodesk.com/view/TAKEOFF/ENU/"
+        },
+        {
+          "name": "Assemble",
+          "url": "https://help.autodesk.com/view/ASSEMBLEPRODUCTS/ENU/"
+        },
+        {
+          "name": "Autodesk Desktop Connector",
+          "url": "https://help.autodesk.com/view/CONNECT/ENU/"
+        }
+      ]
+    },
     {
       "category": "Geo-IT",
       "links": [
