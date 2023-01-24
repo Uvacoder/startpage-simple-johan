@@ -24,6 +24,11 @@
             "name": "Autodesk Education",
             "url": "https://education.autodesk.com/",
             "icon": "file-certificate"
+        },
+        {
+            "name": "Crunchy Bridge",
+            "url": "https://crunchybridge.com/login",
+            "icon": "file-certificate"
         }
     ]
 }
