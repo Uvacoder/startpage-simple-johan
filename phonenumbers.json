@@ -5,7 +5,7 @@
       "phonenumbers": [
         {
           "number": "100",
-          "name": "Hilde"
+          "name": "Christel"
         },
         {
           "number": "101",
@@ -41,11 +41,11 @@
       "category": "550 CAD BIM GROEP",
       "phonenumbers": [
         {
-          "number": "551",
+          "number": "550",
           "name": "Pieter"
         },
         {
-          "number": "552",
+          "number": "551",
           "name": "Jo"
         },
         {
@@ -54,7 +54,7 @@
         },
         {
           "number": "554",
-          "name": "Leen"
+          "name": "Arno"
         },
         {
           "number": "560",
@@ -84,7 +84,7 @@
       "phonenumbers": [
         {
           "number": "581",
-          "name": "Toon"
+          "name": "Arno"
         },
         {
           "number": "582",
@@ -92,7 +92,7 @@
         },
         {
           "number": "583",
-          "name": "Daan"
+          "name": "Sigrid"
         },
         {
           "number": "584",
@@ -100,11 +100,11 @@
         },
         {
           "number": "585",
-          "name": "Sharmaine"
+          "name": "Bart De Graef"
         },
         {
           "number": "586",
-          "name": "Iris"
+          "name": "Ruben"
         },
         {
           "number": "587",
@@ -121,23 +121,19 @@
       "phonenumbers": [
         {
           "number": "591",
-          "name": "Stijn V."
-        },
-        {
-          "number": "592",
-          "name": "Rik"
+          "name": "Maarten"
         },
         {
           "number": "593",
           "name": "Kevin"
         },
         {
-          "number": "594",
-          "name": "Gustave"
+          "number": "593",
+          "name": "Nick"
         },
         {
           "number": "595",
-          "name": "Dries"
+          "name": "Gustave"
         }
       ]
     }
