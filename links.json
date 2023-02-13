@@ -58,7 +58,11 @@
       "category": "ACC (ADSK Construction Cloud)",
       "links": [
         {
-          "name": "Projectlijst",
+          "name": "Projectlijst EU server",
+          "url": "https://acc.autodesk.com/projects"
+        },
+        {
+          "name": "Projectlijst US server",
           "url": "https://acc.autodesk.com/projects"
         },
         {
